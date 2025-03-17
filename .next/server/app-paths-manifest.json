@@ -1,0 +1,7 @@
+{
+  "/(hero)/page": "app/(hero)/page.js",
+  "/(hero)/performance/page": "app/(hero)/performance/page.js",
+  "/(hero)/reliability/page": "app/(hero)/reliability/page.js",
+  "/(hero)/scale/page": "app/(hero)/scale/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

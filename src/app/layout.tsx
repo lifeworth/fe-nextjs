@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, ADLaM_Display } from "next/font/google";
+import { ADLaM_Display } from "next/font/google";
 import "./globals.css";
 
 
