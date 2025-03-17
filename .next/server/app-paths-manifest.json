@@ -1,7 +1,8 @@
 {
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/(hero)/page": "app/(hero)/page.js",
-  "/(hero)/performance/page": "app/(hero)/performance/page.js",
   "/(hero)/reliability/page": "app/(hero)/reliability/page.js",
-  "/(hero)/scale/page": "app/(hero)/scale/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/(hero)/performance/page": "app/(hero)/performance/page.js",
+  "/(hero)/scale/page": "app/(hero)/scale/page.js"
 }
